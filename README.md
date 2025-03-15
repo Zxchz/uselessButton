@@ -11,8 +11,14 @@ https://github.com/user-attachments/assets/0d6bbbc7-a22e-4a04-8851-632b309e0263
 
 Here is a demo of the complete project, you use an RFID tag to press the button, and then the arrow comes in and unpresses the button.
 
-https://github.com/user-attachments/assets/adb7a521-a1ec-4838-a90c-4c247318c6cb
 
+https://github.com/user-attachments/assets/da898c8b-a27a-4485-8eb7-1b153f94c642
+
+
+Here is a video presentation of the project:
+
+
+https://github.com/user-attachments/assets/56eff252-a48f-40a2-8a9f-669790deac59
 
 
 ## Components Needed
@@ -25,10 +31,6 @@ https://github.com/user-attachments/assets/adb7a521-a1ec-4838-a90c-4c247318c6cb
 - 10 kΩ resistor
 - Breadboard
 - Jumper wires
-
-## Circuit Diagram
-
-[Insert circuit diagram/schematic here]
 
 ## Wiring Instructions
 
